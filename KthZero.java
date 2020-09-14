@@ -1,5 +1,5 @@
 public class KthZero {
-    int max;
+     int max;
     int[] arr;
     int[] nums;
 
